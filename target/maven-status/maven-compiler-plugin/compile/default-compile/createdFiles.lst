@@ -1,0 +1,6 @@
+com\solocal\customercrud\service\impl\CustomerServiceImpl.class
+com\solocal\customercrud\controller\CustomerController.class
+com\solocal\customercrud\service\CustomerService.class
+com\solocal\customercrud\dao\CustomerDao.class
+com\solocal\customercrud\model\Customer.class
+com\solocal\customercrud\dao\impl\CustomerDaoImpl.class
